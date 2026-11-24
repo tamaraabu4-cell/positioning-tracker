@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-22 20:55",
+  "updated_utc": "2026-11-24 18:53",
   "report_date": "2026-11-17",
   "rule": "Rule v1: ride the crowd at extremes (gauge >90 or <10), hold 8 weeks",
   "markets": [
@@ -75,40 +75,40 @@
       "exit_date": "2026-12-11",
       "new_this_week": false,
       "entry_price": 1.12132,
-      "latest_price": 1.09697,
-      "pnl_pct": 2.17
+      "latest_price": 1.09709,
+      "pnl_pct": 2.16
     }
   ],
   "sizes": {
     "gold": {
       "instrument": "XAU/USD",
-      "typical_8w_move_pct": 8.1,
-      "size_gbp": 1240,
+      "typical_8w_move_pct": 8.2,
+      "size_gbp": 1222,
       "oanda_units": 0.5
     },
     "crude": {
       "instrument": "WTI",
       "typical_8w_move_pct": 16.4,
-      "size_gbp": 608,
-      "oanda_units": 9.5
+      "size_gbp": 609,
+      "oanda_units": 9.8
     },
     "euro": {
       "instrument": "EUR/USD",
       "typical_8w_move_pct": 2.6,
       "size_gbp": 3816,
-      "oanda_units": 4550.1
+      "oanda_units": 4561.9
     },
     "yen": {
       "instrument": "USD/JPY",
       "typical_8w_move_pct": 3.5,
-      "size_gbp": 2865,
-      "oanda_units": 3747.5
+      "size_gbp": 2874,
+      "oanda_units": 3770.2
     },
     "pound": {
       "instrument": "GBP/USD",
       "typical_8w_move_pct": 2.3,
-      "size_gbp": 4395,
-      "oanda_units": 4394.7
+      "size_gbp": 4396,
+      "oanda_units": 4396.2
     }
   },
   "history": {
